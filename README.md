@@ -24,9 +24,9 @@ Instale as seguintes libs:
 
 `npm install express`
 
-`"start": "node index.js"`
-
 `npm install --save-dev nodemon`
+
+- package.json: adicionar `"start": "node index.js"` em scripts
 
 `npm install consign`
 
