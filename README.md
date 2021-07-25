@@ -43,4 +43,4 @@ Instale as seguintes libs:
 
 Acesse [/videos](http://localhost:3000/videos) no seu localhost.
 
-![API Videos da Aluraflix no ar](aluraflix-json.png)
+![API Videos da Aluraflix no ar]("./assets/aluraflix-json.png")
