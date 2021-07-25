@@ -17,7 +17,22 @@ Use o NPM para rodar o projeto e colocá-lo no ar.
 Instale as seguintes libs:
 - Nodemon
 - Consign
-- Moment
+
+### Comandos 
+
+`npm init`
+
+`npm install express`
+
+`"start": "node index.js"`
+
+`npm install --save-dev nodemon`
+
+`npm install consign`
+
+`npm install mysql`
+
+- SQL: `CREATE SCHEMA aluraflix;`
 
 ## Rotas
 
